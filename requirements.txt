@@ -1,0 +1,11 @@
+django>=5.0
+djangorestframework
+requests
+pandas
+geopy
+polyline
+scipy
+psycopg2-binary
+dj-database-url
+
+gunicorn
