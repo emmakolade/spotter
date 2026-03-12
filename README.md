@@ -24,4 +24,3 @@ This project is a Django application to optimize fuel stops along a route.
 *   `GET /api/route/?start=City,State&finish=City,State`
 
 
-I used free postgress databae just so i could test out the implementation 
